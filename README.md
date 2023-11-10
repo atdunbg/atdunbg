@@ -1,4 +1,4 @@
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/atdunbg/atdunbg/assets/github-contribution-grid-snake.svg" /></div>
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/atdunbg/atdunbg/dist/github-snake-dark.svg" /></div>
 
 
 ### Hi there 👋
