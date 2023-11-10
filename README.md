@@ -1,3 +1,6 @@
+![](https://raw.githubusercontent.com/atdunbg/atdunbg/main/assets/github-contribution-grid-snake.svg)
+
+
 ### Hi there 👋
 
 <!--
