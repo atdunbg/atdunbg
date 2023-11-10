@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/atdunbg/atdunbg/main/assets/github-contribution-grid-snake.svg)
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/atdunbg/atdunbg/assets/github-contribution-grid-snake.svg" /></div>
 
 
 ### Hi there 👋
